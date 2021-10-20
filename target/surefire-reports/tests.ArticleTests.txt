@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: tests.ArticleTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.564 s <<< FAILURE! - in tests.ArticleTests
+testCompareArticleTitle(tests.ArticleTests)  Time elapsed: 0.297 s  <<< ERROR!
+java.lang.Exception: Cannot detect type of driver. Platform value and
+
